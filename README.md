@@ -15,6 +15,3 @@ yarn install
 yarn dev
 ```
 
-### Postman Example
-
-<img src="public/postman-preview.png" alt="postman example preview" />
